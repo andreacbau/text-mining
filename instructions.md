@@ -30,12 +30,7 @@ You should read this document in a somewhat non-linear/spiral fashion:
 5. Write a brief document about what you did (Part 3)
 6. **NOTICE:** If you use any code that is not written by you (or that you learn from other places such as StackOverFlow/GitHub), please add Python comments (before the block of code) describing where you get/learn it . 
 
-### ~~Teaming Logistics:~~
 
-- ~~You can work in a team of **exactly two students** or work **individually**.~~
-- ~~Your partner cannot be in the same term-project team with you.~~
-- ~~If your team has more than 3 members, please divide your team to two groups.~~  
-- ~~**Only one** of you should fork the base repo for this assignment. The one that forks the repo should then **invite** the other team member to the repository.~~
 
 ---
 ## Part 1: Harvesting text from the Internet
